@@ -123,5 +123,5 @@ docker compose up -d
 
 Pour toutes les questions: TG: @nickkauffmann
 
-Nick
+Nick Kaufmann
 
